@@ -25,5 +25,7 @@
 <body>
 	找不到頁面！
 	<br>
+	呵呵
+	<br>
 </body>
 </html>
